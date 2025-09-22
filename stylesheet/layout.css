@@ -1,0 +1,45 @@
+body {
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 10px;
+}
+h1 {
+  font-size: 21px;
+  margin: 90px 0 0 0;
+  font-weight: bold;
+}
+p {
+  size: 12px;
+}
+.text {
+  margin-bottom: 52px;
+}
+
+.image {
+  margin: 90px 0 90px 0;
+}
+h5 {
+  margin-bottom: 28px;
+  font-weight: bold;
+}
+.ol1 {
+  margin-bottom: 64px;
+}
+h2 {
+  font-size: 17px;
+  margin-top: 56px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 15px;
+  font-weight: bold;
+  margin: 52px 0 28px 0;
+}
+h4 {
+  font-size: 13px;
+  font-weight: bold;
+  margin-bottom: 28px;
+}
+.block {
+  margin: 0 0 52px 17px;
+}
